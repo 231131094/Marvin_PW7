@@ -1,0 +1,14 @@
+div{
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    width: 30vmin;
+    height: 70vmax;
+    margin:50px auto 10px auto;
+    text-align: center;
+
+}
+body{
+    margin:0 auto;
+    width: 1024px;
+}

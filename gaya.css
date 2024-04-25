@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(37, 230, 172);
+    padding: 10px;
+}
+.taman{
+    color: blueviolet;
+}
+.danautoba{
+    color: blue;
+}
+img .logo{
+    display: block;
+    width: 50px;
+}
+img{
+    width: 400px;
+    height: 300px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    font-size: 20px;
+    background-color: aqua;
+    display: flex;
+}
+
+
+h2{
+    background-color: aqua;
+}
+
+h3{
+    border: 10px;
+}
+.utama{
+    border: 2px;
+    border-style: solid;
+    padding: 5px;
+    display: inline-block;
+    background-color: rgb(207, 128, 128);
+}
+.artic1{
+    background-color: azure;
+    color: brown;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 10px;
+    font-weight: bold;
+    border-style:solid;
+    padding: 0 30px;
+    margin: 0 50px;
+}
+.artic2{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 233, 233);
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 20px;
+    font-weight: bold;
+    border-style:dotted;
+    padding: 5px 20px;
+    margin: 5px 40px;
+}
